@@ -1,9 +1,9 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": true,
+            "enabled": false,
             "optimizationMethod": "Auto",
-            "threadCount": 8
+            "threadCount": 2
         }
     },
     "pools": [
